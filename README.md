@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](CHANGELOG.md)
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-green.svg)](LICENSE)
-[![GreasyFork](https://img.shields.io/badge/install-GreasyFork-orange.svg)](https://greasyfork.org/scripts/YOUR-SCRIPT-ID)
+[![GreasyFork](https://img.shields.io/badge/install-GreasyFork-orange.svg)](https://greasyfork.org/scripts/602461-wme-gregorian-to-jalali)
 
 [فارسی](#فارسی) · [English](#english)
 
@@ -31,7 +31,7 @@
 ### نصب
 
 ۱. اگر هنوز ندارید، افزونه‌ی [Tampermonkey](https://www.tampermonkey.net/) یا [Violentmonkey](https://violentmonkey.github.io/) را روی مرورگرتان نصب کنید.<br>
-۲. اسکریپت را [از GreasyFork نصب کنید](https://greasyfork.org/scripts/YOUR-SCRIPT-ID). از این راه، نسخه‌های بعدی خودکار به‌روز می‌شوند.<br>
+۲. اسکریپت را [از GreasyFork نصب کنید](https://greasyfork.org/scripts/602461-wme-gregorian-to-jalali). از این راه، نسخه‌های بعدی خودکار به‌روز می‌شوند.<br>
 ۳. ویرایشگر ویز را باز کنید و در نوار کناری به زبانه‌ی **Scripts** بروید. زبانه‌ی **تاریخ شمسی** همان‌جاست.
 
 ### تنظیمات
@@ -75,7 +75,7 @@ WME shows every date in the Gregorian calendar, and most times aren't in Iran's 
 ### Install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Install the script [from GreasyFork](https://greasyfork.org/scripts/YOUR-SCRIPT-ID). You'll get updates automatically.
+2. Install the script [from GreasyFork](https://greasyfork.org/scripts/602461-wme-gregorian-to-jalali). You'll get updates automatically.
 3. Open WME and look for the **Jalali Date** tab under **Scripts** in the sidebar.
 
 ### Settings

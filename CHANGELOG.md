@@ -32,7 +32,7 @@ Dashes: `27-10-2026 08:15`
 
 - I added display using Unicode bidi isolates so Persian text does not scramble English panels.
 
-- I added a Persian/English) settings tab, in the Scripts sidebar with a live preview. Every change applies to the page immediately.
+- I added a Persian/English settings tab, in the Scripts sidebar with a live preview. Every change applies to the page immediately.
 
 - I added the ability to turn the script off so that all original text is restored.
 
